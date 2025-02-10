@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- I’m a mechanical engineering gradute.
+- Interest in advanced design methodologies, biomimicry, and 4D
+ printing.
+- Currently developing my FEA skills.
+- Just started CS50's-Introduction to Programming with Python course.
+- Reach me on: linkedin.com/in/abdel-refat
 <!--
 **Rahman-Refat27/Rahman-Refat27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
